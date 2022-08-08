@@ -1,1 +1,28 @@
 /* Write your CSS here! */
+
+body {
+    margin: 8px;
+}
+
+header, main, footer {
+    max-width: 50%;
+    margin: auto;
+}
+
+#mainHeading {
+    text-align: center;
+    color: red;
+}
+
+img {
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    padding: 5px;
+    max-width: 50%;
+    max-height: 50%;
+}
+
+.funParagraph {
+    color: green;
+}
